@@ -1,4 +1,4 @@
-# TyreseDev
+<h1 align="center">TyreseDev</h1>
 
 <div align="center">
   <a href="https://github.com/keyz/keyz/blame/main/thonk.svg">
